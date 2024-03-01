@@ -9,7 +9,7 @@
   },
   "profiles": {
     "mywebapp": {
-      "commandName": "Project",
+      "commandName": "Projects",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "applicationUrl": "https://localhost:7247;http://localhost:5200",
